@@ -41,7 +41,8 @@
     },
     "config": {
         "allow-plugins": {
-            "symfony/thanks": false
+            "symfony/thanks": false,
+            "dealerdirect/phpcodesniffer-composer-installer": false
         }
     },
     "prefer-stable": true,
