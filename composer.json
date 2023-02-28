@@ -39,6 +39,11 @@
         "polishsymfonycommunity/symfony-mocker-container": "^1.0",
         "bitbag/coding-standard": "^1.0"
     },
+    "config": {
+        "allow-plugins": {
+            "symfony/thanks": false
+        }
+    },
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
