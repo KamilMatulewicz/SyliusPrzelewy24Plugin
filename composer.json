@@ -42,7 +42,8 @@
     "config": {
         "allow-plugins": {
             "symfony/thanks": false,
-            "dealerdirect/phpcodesniffer-composer-installer": false
+            "dealerdirect/phpcodesniffer-composer-installer": false,
+            "phpstan/extension-installer": false
         }
     },
     "prefer-stable": true,
